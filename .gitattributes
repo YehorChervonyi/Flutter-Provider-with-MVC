@@ -1,0 +1,18 @@
+# Allow Dart to be detected as the primary language
+*.dart linguist-detectable=true
+
+# Block all other languages by marking them as vendored
+*.c linguist-vendored
+*.cc linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.html linguist-vendored
+*.swift linguist-vendored
+*.cmake linguist-vendored
+*.sh linguist-vendored
+*.json linguist-vendored
+*.yaml linguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored
+*.kt linguist-vendored
